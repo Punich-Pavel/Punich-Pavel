@@ -23,7 +23,7 @@
       - Разведывательный анализ: numpy, pandas, seaborn, plotly, folium, scikit-learn;
       - Базовое знание математической статистики, теории вероятности и временных рядов применимо к задачам ML;
       - Machine Learning: scikit-learn, XGBoost, CatBoost;
-      - Relational Databases: PostgreSQL;
+      - Работа с реляционными базами данных: PostgreSQL;
       - Разработка и оформление проектной документации: MS VSCode и Office, Jupyter-notebook, Comet;
     * Soft skills:
       - Исполнительность;
