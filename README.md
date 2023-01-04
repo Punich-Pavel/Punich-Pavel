@@ -39,7 +39,7 @@
 - Ищу работу по профессии Data Scientist;
  
 
-### 🙌🏻 Свяжись со мной
+### 🙌🏻 Свяжитесь со мной
 
 - [Telegram](@Black_ground_DS)
 - [Kaggle](https://www.kaggle.com/pavelpunich)
