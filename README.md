@@ -34,7 +34,6 @@
 ### ⚡️ В настоящее время ⚡️
 
 - Прохожу курс: "Профессия Data Scientist" в Skillfactory;
-- Изучаю администрирование баз данных на Postgres;
 - Совершенствую свои знания и навыки в области информационных систем и ML;
 - Ищу работу по профессии Data Scientist;
  
@@ -82,7 +81,6 @@
 ### ⚡️ Currently ⚡️
 
 - Passing the course: "Profession Data Scientist" in Skillfactory;
-- I study database administration on Postgres;
 - Improving my knowledge and skills in the field of information systems and ML;
 - Looking for a job as a Data Scientist;
  
