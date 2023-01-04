@@ -1,6 +1,7 @@
 ### Привет! 👋
 
 ### ✨ Обо мне за 30 секунд ✨ 
+
 * 🎓 Краснодарский военный авиационный институт:
   - специальность: - Летная эксплуатация воздушных судов и управление воздушным движением 
 
@@ -15,7 +16,8 @@
 * Кликни [сюда]() чтобы посмотреть мои проекты
 
 ### 💡 Основные компетенции 💡
-- Инструменты: Python, SQL, Git, Markdoun 
+
+- Инструменты: Python, SQL, Markdoun, HTML 
 - Skills: 
     * Hard skills:
       - Разведывательный анализ: numpy, pandas, seaborn, plotly, folium, scikit-learn;
@@ -30,6 +32,7 @@
       - Управление;
    
 ### ⚡️ В настоящее время ⚡️
+
 - Прохожу курс: "Профессия Data Scientist" в Skillfactory;
 - Изучаю администрирование баз данных на Postgres;
 - Совершенствую свои знания и навыки в области информационных систем и ML;
@@ -37,6 +40,7 @@
  
 
 ### 🙌🏻 Свяжись со мной
+
 - [Telegram](@Black_ground_DS)
 - [Kaggle](https://www.kaggle.com/pavelpunich)
 
@@ -45,21 +49,23 @@
 ### Hi! 👋
 
 ### ✨ About me in 30 seconds ✨
+
 * 🎓 Krasnodar Military Aviation Institute:
    - specialty: - Flight operation of aircraft and air traffic control
-   
+
+* 🎓 Online lessons by Artem Rusov:
+   - specialty: - QA-engineer
+     
 * 🎓 SkillFactory Online School:
    - specialty: -Data Scientist
-  
-* 🎓 Online lessons by Artem Rusov:
-   - specialty: - "QA-engineer"
 
 ### 📚 Projects 📚
 
 * Click [here]() to view my projects
 
 ### 💡 Core competencies 💡
-- Tools: Python, SQL, Git, Markdown
+
+- Tools: Python, SQL, Markdoun, HTML 
 - Skills:
      * Hard skills:
        - EDA: numpy, pandas, seaborn, plotly, folium, scikit-learn;
@@ -74,6 +80,7 @@
        - Management;
    
 ### ⚡️ Currently ⚡️
+
 - Passing the course: "Profession Data Scientist" in Skillfactory;
 - I study database administration on Postgres;
 - Improving my knowledge and skills in the field of information systems and ML;
@@ -81,5 +88,6 @@
  
 
 ### 🙌🏻 Contact me
+
 - [Telegram](@Black_ground_DS)
 - [Kaggle](https://www.kaggle.com/pavelpunich)
