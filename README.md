@@ -45,34 +45,34 @@
 
 ---
 
-### Hi! 👋
+### Hey! 👋
 
 ### ✨ About me in 30 seconds ✨
 
-* 🎓 Krasnodar Military Aviation Institute:
-   - specialty: - Flight operation of aircraft and air traffic control
-
+* 🎓 SkillFactory Online School:
+   - specialty: - Data Scientist
+ 
 * 🎓 Online lessons by Artem Rusov:
    - specialty: - QA-engineer
-     
-* 🎓 SkillFactory Online School:
-   - specialty: -Data Scientist
 
+* 🎓 Krasnodar Military Aviation Institute:
+   - specialty: - Flight operation of aircraft and air traffic control
+  
 ### 📚 Projects 📚
 
-* Click [here]() to view my projects
+* Click [here](https://github.com/Punich-Pavel/Portfolio) to see my projects
 
 ### 💡 Core competencies 💡
 
-- Tools: Python, SQL, Markdoun, HTML 
+- Tools: Python, SQL, Markdown, HTML
 - Skills:
-     * Hard skills:
-       - EDA: numpy, pandas, seaborn, plotly, folium, scikit-learn;
+     * Professional:
+       - Intelligence analysis: numpy, pandas, seaborn, plotly, folium, scikit-learn;
        - Basic knowledge of mathematical statistics, probability theory and time series applicable to ML problems;
        - Machine Learning: scikit-learn, XGBoost, CatBoost;
-       - Relational Databases: PostgreSQL;
+       - Working with relational databases: PostgreSQL;
        - Development and design of project documentation: MS VSCode and Office, Jupyter-notebook, Comet;
-     * Soft skills:
+     * Personal:
        - performance;
        - Business communication;
        - Teamwork;
