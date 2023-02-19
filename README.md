@@ -17,10 +17,10 @@
 
 ### 💡 Основные компетенции 💡
 
-- Инструменты: Python, SQL, Markdoun, HTML 
+- Инструменты: Python, SQL, Markdoun, HTML, git, Docker 
 - Навыки: 
     * Профессиональные:
-      - Разведывательный анализ: numpy, pandas, seaborn, plotly, folium, scikit-learn;
+      - Разведывательный анализ: numpy, pandas, nltk, seaborn, plotly, folium, scikit-learn;
       - Базовое знание математической статистики, теории вероятности и временных рядов применимо к задачам ML;
       - Machine Learning: scikit-learn, XGBoost, CatBoost;
       - Работа с реляционными базами данных: PostgreSQL;
@@ -33,9 +33,9 @@
    
 ### ⚡️ В настоящее время ⚡️
 
-- Прохожу курс: "Профессия Data Scientist" в Skillfactory;
+- Прохожу курс: "ML-Engener" в Skillfactory;
 - Совершенствую свои знания и навыки в области информационных систем и ML;
-- Ищу работу по профессии Data Scientist;
+- Ищу работу по профессии Data Scientist(ML-Engener);
  
 
 ### 🙌🏻 Свяжитесь со мной
@@ -64,10 +64,10 @@
 
 ### 💡 Core competencies 💡
 
-- Tools: Python, SQL, Markdown, HTML
+- Tools: Python, SQL, Markdown, HTML, git, Docker
 - Skills:
      * Professional:
-       - Intelligence analysis: numpy, pandas, seaborn, plotly, folium, scikit-learn;
+       - Intelligence analysis: numpy, pandas, nltk, seaborn, plotly, folium, scikit-learn;
        - Basic knowledge of mathematical statistics, probability theory and time series applicable to ML problems;
        - Machine Learning: scikit-learn, XGBoost, CatBoost;
        - Working with relational databases: PostgreSQL;
@@ -80,9 +80,9 @@
    
 ### ⚡️ Currently ⚡️
 
-- Passing the course: "Profession Data Scientist" in Skillfactory;
+- Passing the course: "ML-Engener" in Skillfactory;
 - Improving my knowledge and skills in the field of information systems and ML;
-- Looking for a job as a Data Scientist;
+- I am looking for a job as a Data Scientist (ML-Engener);
  
 
 ### 🙌🏻 Contact me
