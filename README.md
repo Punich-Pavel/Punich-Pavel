@@ -17,19 +17,21 @@
 
 ### 💡 Основные компетенции 💡
 
-- Инструменты: Python, SQL, Markdoun, HTML, git, Docker 
-- Навыки: 
+- Инструменты: Python, SQL, Markdoun, HTML, Git, RabbitMQ, Flask, Docker 
+- Навыки:
+-  
     * Профессиональные:
-      - Разведывательный анализ: numpy, pandas, nltk, seaborn, plotly, folium, scikit-learn;
-      - Базовое знание математической статистики, теории вероятности и временных рядов применимо к задачам ML;
-      - Machine Learning: scikit-learn, XGBoost, CatBoost;
+      - Библиотеки: numpy, skipy, pandas, nltk, seaborn, plotly, folium, scikit-learn, hiperopt, optuna, XGBoost, CatBoost, scikit-surprise, lightfm;
+      - Базовое знание линейной алгебрыб математической статистики, теории вероятности и временных рядов применимо к задачам ML;
       - Работа с реляционными базами данных: PostgreSQL;
       - Разработка и оформление проектной документации: MS VSCode и Office, Jupyter-notebook, Comet;
+    
     * Личные:
       - Исполнительность;
       - Деловая коммуникация;
       - Работа в команде;
       - Управление;
+      - Наставничество.
    
 ### ⚡️ В настоящее время ⚡️
 
@@ -64,19 +66,21 @@
 
 ### 💡 Core competencies 💡
 
-- Tools: Python, SQL, Markdown, HTML, git, Docker
+- Tools: Python, SQL, Markdown, HTML, Git, RabbitMQ, Flask, Docker
 - Skills:
+-
      * Professional:
-       - Intelligence analysis: numpy, pandas, nltk, seaborn, plotly, folium, scikit-learn;
-       - Basic knowledge of mathematical statistics, probability theory and time series applicable to ML problems;
-       - Machine Learning: scikit-learn, XGBoost, CatBoost;
+       - Libraries: numpy, skipy, pandas, nltk, seaborn, plotly, folium, scikit-learn, hiperopt, optuna, XGBoost, CatBoost, scikit-surprise, lightfm;
+       - Basic knowledge of linear algebra, mathematical statistics, probability theory and time series applicable to ML problems;
        - Working with relational databases: PostgreSQL;
        - Development and design of project documentation: MS VSCode and Office, Jupyter-notebook, Comet;
+    
      * Personal:
        - performance;
        - Business communication;
        - Teamwork;
        - Management;
+       - Mentoring.
    
 ### ⚡️ Currently ⚡️
 
