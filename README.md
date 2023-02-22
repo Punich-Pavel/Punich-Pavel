@@ -35,9 +35,9 @@
    
 ### ⚡️ В настоящее время ⚡️
 
-- Прохожу курс: "ML-Engener" в Skillfactory;
+- Прохожу курс: "ML-Engineer" в Skillfactory;
 - Совершенствую свои знания и навыки в области информационных систем и ML;
-- Ищу работу по профессии Data Scientist(ML-Engener);
+- Ищу работу по профессии Data Scientist(ML-Engineer);
  
 
 ### 🙌🏻 Свяжитесь со мной
@@ -86,7 +86,7 @@
 
 - Passing the course: "ML-Engener" in Skillfactory;
 - Improving my knowledge and skills in the field of information systems and ML;
-- I am looking for a job as a Data Scientist (ML-Engener);
+- I am looking for a job as a Data Scientist (ML-Engineer);
  
 
 ### 🙌🏻 Contact me
