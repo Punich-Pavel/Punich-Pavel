@@ -84,7 +84,7 @@
    
 ### ⚡️ Currently ⚡️
 
-- Passing the course: "ML-Engener" in Skillfactory;
+- Passing the course: "ML-Engineer" in Skillfactory;
 - Improving my knowledge and skills in the field of information systems and ML;
 - I am looking for a job as a Data Scientist (ML-Engineer);
  
