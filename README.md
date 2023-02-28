@@ -17,20 +17,22 @@
 
 ### 💡 Основные компетенции 💡
 
-- Инструменты: Python, SQL, Markdoun, HTML, Git, RabbitMQ, Flask, Docker 
+- Языки программирования и разметки: Python, SQL, Markdoun, HTML;
+
+- Инструменты: MS VSCode, Jupyter-notebook, Comet.ml, Git, RabbitMQ, Flask, Docker/Docker-Compose;
+
 - Навыки:
--  
+  
     * Профессиональные:
-      - Библиотеки: numpy, skipy, pandas, nltk, seaborn, plotly, folium, scikit-learn, hiperopt, optuna, XGBoost, CatBoost, scikit-surprise, lightfm;
+      - Библиотеки: numpy, skipy, BeautifulSoup, regex, pandas, nltk, seaborn, plotly, folium, scikit-learn, hiperopt, optuna, XGBoost, CatBoost, scikit-surprise, lightfm;
       - Базовое знание линейной алгебры, математической статистики, теории вероятности и временных рядов применимо к задачам ML;
       - Работа с реляционными базами данных: PostgreSQL;
-      - Разработка и оформление проектной документации: MS VSCode и Office, Jupyter-notebook, Comet;
-    
+          
     * Личные:
-      - Исполнительность;
+      - Дисциплинированность;
+      - Уравновешенность;
       - Деловая коммуникация;
       - Работа в команде;
-      - Управление;
       - Наставничество.
    
 ### ⚡️ В настоящее время ⚡️
@@ -66,25 +68,27 @@
 
 ### 💡 Core competencies 💡
 
-- Tools: Python, SQL, Markdown, HTML, Git, RabbitMQ, Flask, Docker
+- Programming and markup languages: Python, SQL, Markdown, HTML;
+
+- Tools: MS VSCode, Jupyter-notebook, Comet.ml, Git, RabbitMQ, Flask, Docker/Docker-Compose;
+
 - Skills:
--
+  
      * Professional:
-       - Libraries: numpy, skipy, pandas, nltk, seaborn, plotly, folium, scikit-learn, hiperopt, optuna, XGBoost, CatBoost, scikit-surprise, lightfm;
+       - Libraries: numpy, skipy, BeautifulSoup, regex, pandas, nltk, seaborn, plotly, folium, scikit-learn, hiperopt, optuna, XGBoost, CatBoost, scikit-surprise, lightfm;
        - Basic knowledge of linear algebra, mathematical statistics, probability theory and time series applicable to ML problems;
        - Working with relational databases: PostgreSQL;
-       - Development and design of project documentation: MS VSCode and Office, Jupyter-notebook, Comet;
-    
+          
      * Personal:
-       - performance;
+       - Discipline;
+       - Balance;
        - Business communication;
        - Teamwork;
-       - Management;
        - Mentoring.
    
 ### ⚡️ Currently ⚡️
 
-- Passing the course: "ML-Engineer" in Skillfactory;
+- I am taking a course: "ML-Engineer" in Skillfactory;
 - Improving my knowledge and skills in the field of information systems and ML;
 - I am looking for a job as a Data Scientist (ML-Engineer);
  
